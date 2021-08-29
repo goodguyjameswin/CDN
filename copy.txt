@@ -1,0 +1,6 @@
+本内容遵循 CC BY-NC-ND 4.0 版权协议。
+作者：FLY_MC
+链接：https://flymc.cc/2020/03/28/Sakura/#%E4%BA%8C%E3%80%81Sakura%E4%B8%BB%E9%A2%98%E8%B0%83%E6%95%99
+来源：とある珂学の楓
+
+<script src="//cdn.jsdelivr.net/gh/Natsuki-Kaede/Fly-Engine@latest/fly-engine.js" type="module"></script>
